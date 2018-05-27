@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="px96">72px</dimen>
+    <dimen name="sp24">18sp</dimen>
+
+    <dimen name="px36">36px</dimen>
+    <dimen name="px32">32px</dimen>
+    <dimen name="px28">28px</dimen>
+    <dimen name="px24">18px</dimen>
+
+</resources>
